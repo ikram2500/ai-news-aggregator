@@ -1,0 +1,1 @@
+uv add sqlalchemy pcycopg2-binary requests feedparser beautifulsoup4 python-dotenv openai 
